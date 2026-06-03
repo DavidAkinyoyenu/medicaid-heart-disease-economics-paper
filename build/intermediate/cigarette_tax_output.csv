@@ -1,0 +1,1072 @@
+state,state_abbr,year,cigarette_tax_per_pack
+Alabama,AL,1999,0.165
+Alabama,AL,2000,0.165
+Alabama,AL,2001,0.165
+Alabama,AL,2002,0.165
+Alabama,AL,2003,0.165
+Alabama,AL,2004,0.425
+Alabama,AL,2005,0.425
+Alabama,AL,2006,0.425
+Alabama,AL,2007,0.425
+Alabama,AL,2008,0.425
+Alabama,AL,2009,0.425
+Alabama,AL,2010,0.425
+Alabama,AL,2011,0.425
+Alabama,AL,2012,0.425
+Alabama,AL,2013,0.425
+Alabama,AL,2014,0.425
+Alabama,AL,2015,0.425
+Alabama,AL,2016,0.675
+Alabama,AL,2017,0.675
+Alabama,AL,2018,0.675
+Alabama,AL,2019,0.675
+Alaska,AK,1999,1.0
+Alaska,AK,2000,1.0
+Alaska,AK,2001,1.0
+Alaska,AK,2002,1.0
+Alaska,AK,2003,1.0
+Alaska,AK,2004,1.0
+Alaska,AK,2005,1.6
+Alaska,AK,2006,1.6
+Alaska,AK,2007,1.8
+Alaska,AK,2008,2.0
+Alaska,AK,2009,2.0
+Alaska,AK,2010,2.0
+Alaska,AK,2011,2.0
+Alaska,AK,2012,2.0
+Alaska,AK,2013,2.0
+Alaska,AK,2014,2.0
+Alaska,AK,2015,2.0
+Alaska,AK,2016,2.0
+Alaska,AK,2017,2.0
+Alaska,AK,2018,2.0
+Alaska,AK,2019,2.0
+Arizona,AZ,1999,0.58
+Arizona,AZ,2000,0.58
+Arizona,AZ,2001,0.58
+Arizona,AZ,2002,0.58
+Arizona,AZ,2003,1.18
+Arizona,AZ,2004,1.18
+Arizona,AZ,2005,1.18
+Arizona,AZ,2006,1.18
+Arizona,AZ,2007,2.0
+Arizona,AZ,2008,2.0
+Arizona,AZ,2009,2.0
+Arizona,AZ,2010,2.0
+Arizona,AZ,2011,2.0
+Arizona,AZ,2012,2.0
+Arizona,AZ,2013,2.0
+Arizona,AZ,2014,2.0
+Arizona,AZ,2015,2.0
+Arizona,AZ,2016,2.0
+Arizona,AZ,2017,2.0
+Arizona,AZ,2018,2.0
+Arizona,AZ,2019,2.0
+Arkansas,AR,1999,0.315
+Arkansas,AR,2000,0.315
+Arkansas,AR,2001,0.315
+Arkansas,AR,2002,0.34
+Arkansas,AR,2003,0.59
+Arkansas,AR,2004,0.59
+Arkansas,AR,2005,0.59
+Arkansas,AR,2006,0.59
+Arkansas,AR,2007,0.59
+Arkansas,AR,2008,0.59
+Arkansas,AR,2009,1.15
+Arkansas,AR,2010,1.15
+Arkansas,AR,2011,1.15
+Arkansas,AR,2012,1.15
+Arkansas,AR,2013,1.15
+Arkansas,AR,2014,1.15
+Arkansas,AR,2015,1.15
+Arkansas,AR,2016,1.15
+Arkansas,AR,2017,1.15
+Arkansas,AR,2018,1.15
+Arkansas,AR,2019,1.15
+California,CA,1999,0.87
+California,CA,2000,0.87
+California,CA,2001,0.87
+California,CA,2002,0.87
+California,CA,2003,0.87
+California,CA,2004,0.87
+California,CA,2005,0.87
+California,CA,2006,0.87
+California,CA,2007,0.87
+California,CA,2008,0.87
+California,CA,2009,0.87
+California,CA,2010,0.87
+California,CA,2011,0.87
+California,CA,2012,0.87
+California,CA,2013,0.87
+California,CA,2014,0.87
+California,CA,2015,0.87
+California,CA,2016,0.87
+California,CA,2017,2.87
+California,CA,2018,2.87
+California,CA,2019,2.87
+Colorado,CO,1999,0.2
+Colorado,CO,2000,0.2
+Colorado,CO,2001,0.2
+Colorado,CO,2002,0.2
+Colorado,CO,2003,0.2
+Colorado,CO,2004,0.2
+Colorado,CO,2005,0.84
+Colorado,CO,2006,0.84
+Colorado,CO,2007,0.84
+Colorado,CO,2008,0.84
+Colorado,CO,2009,0.84
+Colorado,CO,2010,0.84
+Colorado,CO,2011,0.84
+Colorado,CO,2012,0.84
+Colorado,CO,2013,0.84
+Colorado,CO,2014,0.84
+Colorado,CO,2015,0.84
+Colorado,CO,2016,0.84
+Colorado,CO,2017,0.84
+Colorado,CO,2018,0.84
+Colorado,CO,2019,0.84
+Connecticut,CT,1999,0.5
+Connecticut,CT,2000,0.5
+Connecticut,CT,2001,0.5
+Connecticut,CT,2002,1.11
+Connecticut,CT,2003,1.51
+Connecticut,CT,2004,1.51
+Connecticut,CT,2005,1.51
+Connecticut,CT,2006,1.51
+Connecticut,CT,2007,1.51
+Connecticut,CT,2008,2.0
+Connecticut,CT,2009,2.0
+Connecticut,CT,2010,3.0
+Connecticut,CT,2011,3.0
+Connecticut,CT,2012,3.4
+Connecticut,CT,2013,3.4
+Connecticut,CT,2014,3.4
+Connecticut,CT,2015,3.4
+Connecticut,CT,2016,3.65
+Connecticut,CT,2017,3.9
+Connecticut,CT,2018,4.35
+Connecticut,CT,2019,4.35
+Delaware,DE,1999,0.24
+Delaware,DE,2000,0.24
+Delaware,DE,2001,0.24
+Delaware,DE,2002,0.24
+Delaware,DE,2003,0.24
+Delaware,DE,2004,0.55
+Delaware,DE,2005,0.55
+Delaware,DE,2006,0.55
+Delaware,DE,2007,0.55
+Delaware,DE,2008,1.15
+Delaware,DE,2009,1.15
+Delaware,DE,2010,1.6
+Delaware,DE,2011,1.6
+Delaware,DE,2012,1.6
+Delaware,DE,2013,1.6
+Delaware,DE,2014,1.6
+Delaware,DE,2015,1.6
+Delaware,DE,2016,1.6
+Delaware,DE,2017,1.6
+Delaware,DE,2018,2.1
+Delaware,DE,2019,2.1
+District of Columbia,DC,1999,0.65
+District of Columbia,DC,2000,0.65
+District of Columbia,DC,2001,0.65
+District of Columbia,DC,2002,0.65
+District of Columbia,DC,2003,1.0
+District of Columbia,DC,2004,1.0
+District of Columbia,DC,2005,1.0
+District of Columbia,DC,2006,1.0
+District of Columbia,DC,2007,1.0
+District of Columbia,DC,2008,1.0
+District of Columbia,DC,2009,2.0
+District of Columbia,DC,2010,2.5
+District of Columbia,DC,2011,2.5
+District of Columbia,DC,2012,2.86
+District of Columbia,DC,2013,2.86
+District of Columbia,DC,2014,2.86
+District of Columbia,DC,2015,2.9
+District of Columbia,DC,2016,2.91
+District of Columbia,DC,2017,2.92
+District of Columbia,DC,2018,2.94
+District of Columbia,DC,2019,4.94
+Florida,FL,1999,0.339
+Florida,FL,2000,0.339
+Florida,FL,2001,0.339
+Florida,FL,2002,0.339
+Florida,FL,2003,0.339
+Florida,FL,2004,0.339
+Florida,FL,2005,0.339
+Florida,FL,2006,0.339
+Florida,FL,2007,0.339
+Florida,FL,2008,0.339
+Florida,FL,2009,0.339
+Florida,FL,2010,1.339
+Florida,FL,2011,1.339
+Florida,FL,2012,1.339
+Florida,FL,2013,1.339
+Florida,FL,2014,1.339
+Florida,FL,2015,1.339
+Florida,FL,2016,1.339
+Florida,FL,2017,1.339
+Florida,FL,2018,1.339
+Florida,FL,2019,1.339
+Georgia,GA,1999,0.12
+Georgia,GA,2000,0.12
+Georgia,GA,2001,0.12
+Georgia,GA,2002,0.12
+Georgia,GA,2003,0.12
+Georgia,GA,2004,0.37
+Georgia,GA,2005,0.37
+Georgia,GA,2006,0.37
+Georgia,GA,2007,0.37
+Georgia,GA,2008,0.37
+Georgia,GA,2009,0.37
+Georgia,GA,2010,0.37
+Georgia,GA,2011,0.37
+Georgia,GA,2012,0.37
+Georgia,GA,2013,0.37
+Georgia,GA,2014,0.37
+Georgia,GA,2015,0.37
+Georgia,GA,2016,0.37
+Georgia,GA,2017,0.37
+Georgia,GA,2018,0.37
+Georgia,GA,2019,0.37
+Hawaii,HI,1999,1.0
+Hawaii,HI,2000,1.0
+Hawaii,HI,2001,1.0
+Hawaii,HI,2002,1.0
+Hawaii,HI,2003,1.3
+Hawaii,HI,2004,1.4
+Hawaii,HI,2005,1.4
+Hawaii,HI,2006,1.4
+Hawaii,HI,2007,1.6
+Hawaii,HI,2008,1.8
+Hawaii,HI,2009,2.0
+Hawaii,HI,2010,2.6
+Hawaii,HI,2011,3.0
+Hawaii,HI,2012,3.2
+Hawaii,HI,2013,3.2
+Hawaii,HI,2014,3.2
+Hawaii,HI,2015,3.2
+Hawaii,HI,2016,3.2
+Hawaii,HI,2017,3.2
+Hawaii,HI,2018,3.2
+Hawaii,HI,2019,3.2
+Idaho,ID,1999,0.28
+Idaho,ID,2000,0.28
+Idaho,ID,2001,0.28
+Idaho,ID,2002,0.28
+Idaho,ID,2003,0.57
+Idaho,ID,2004,0.57
+Idaho,ID,2005,0.57
+Idaho,ID,2006,0.57
+Idaho,ID,2007,0.57
+Idaho,ID,2008,0.57
+Idaho,ID,2009,0.57
+Idaho,ID,2010,0.57
+Idaho,ID,2011,0.57
+Idaho,ID,2012,0.57
+Idaho,ID,2013,0.57
+Idaho,ID,2014,0.57
+Idaho,ID,2015,0.57
+Idaho,ID,2016,0.57
+Idaho,ID,2017,0.57
+Idaho,ID,2018,0.57
+Idaho,ID,2019,0.57
+Illinois,IL,1999,0.58
+Illinois,IL,2000,0.58
+Illinois,IL,2001,0.58
+Illinois,IL,2002,0.58
+Illinois,IL,2003,0.98
+Illinois,IL,2004,0.98
+Illinois,IL,2005,0.98
+Illinois,IL,2006,0.98
+Illinois,IL,2007,0.98
+Illinois,IL,2008,0.98
+Illinois,IL,2009,0.98
+Illinois,IL,2010,0.98
+Illinois,IL,2011,0.98
+Illinois,IL,2012,0.98
+Illinois,IL,2013,1.98
+Illinois,IL,2014,1.98
+Illinois,IL,2015,1.98
+Illinois,IL,2016,1.98
+Illinois,IL,2017,1.98
+Illinois,IL,2018,1.98
+Illinois,IL,2019,1.98
+Indiana,IN,1999,0.155
+Indiana,IN,2000,0.155
+Indiana,IN,2001,0.155
+Indiana,IN,2002,0.155
+Indiana,IN,2003,0.555
+Indiana,IN,2004,0.555
+Indiana,IN,2005,0.555
+Indiana,IN,2006,0.555
+Indiana,IN,2007,0.555
+Indiana,IN,2008,0.995
+Indiana,IN,2009,0.995
+Indiana,IN,2010,0.995
+Indiana,IN,2011,0.995
+Indiana,IN,2012,0.995
+Indiana,IN,2013,0.995
+Indiana,IN,2014,0.995
+Indiana,IN,2015,0.995
+Indiana,IN,2016,0.995
+Indiana,IN,2017,0.995
+Indiana,IN,2018,0.995
+Indiana,IN,2019,0.995
+Iowa,IA,1999,0.36
+Iowa,IA,2000,0.36
+Iowa,IA,2001,0.36
+Iowa,IA,2002,0.36
+Iowa,IA,2003,0.36
+Iowa,IA,2004,0.36
+Iowa,IA,2005,0.36
+Iowa,IA,2006,0.36
+Iowa,IA,2007,1.36
+Iowa,IA,2008,1.36
+Iowa,IA,2009,1.36
+Iowa,IA,2010,1.36
+Iowa,IA,2011,1.36
+Iowa,IA,2012,1.36
+Iowa,IA,2013,1.36
+Iowa,IA,2014,1.36
+Iowa,IA,2015,1.36
+Iowa,IA,2016,1.36
+Iowa,IA,2017,1.36
+Iowa,IA,2018,1.36
+Iowa,IA,2019,1.36
+Kansas,KS,1999,0.24
+Kansas,KS,2000,0.24
+Kansas,KS,2001,0.24
+Kansas,KS,2002,0.24
+Kansas,KS,2003,0.79
+Kansas,KS,2004,0.79
+Kansas,KS,2005,0.79
+Kansas,KS,2006,0.79
+Kansas,KS,2007,0.79
+Kansas,KS,2008,0.79
+Kansas,KS,2009,0.79
+Kansas,KS,2010,0.79
+Kansas,KS,2011,0.79
+Kansas,KS,2012,0.79
+Kansas,KS,2013,0.79
+Kansas,KS,2014,0.79
+Kansas,KS,2015,0.79
+Kansas,KS,2016,1.29
+Kansas,KS,2017,1.29
+Kansas,KS,2018,1.29
+Kansas,KS,2019,1.29
+Kentucky,KY,1999,0.03
+Kentucky,KY,2000,0.03
+Kentucky,KY,2001,0.03
+Kentucky,KY,2002,0.03
+Kentucky,KY,2003,0.03
+Kentucky,KY,2004,0.03
+Kentucky,KY,2005,0.3
+Kentucky,KY,2006,0.3
+Kentucky,KY,2007,0.3
+Kentucky,KY,2008,0.3
+Kentucky,KY,2009,0.6
+Kentucky,KY,2010,0.6
+Kentucky,KY,2011,0.6
+Kentucky,KY,2012,0.6
+Kentucky,KY,2013,0.6
+Kentucky,KY,2014,0.6
+Kentucky,KY,2015,0.6
+Kentucky,KY,2016,0.6
+Kentucky,KY,2017,0.6
+Kentucky,KY,2018,0.6
+Kentucky,KY,2019,1.1
+Louisiana,LA,1999,0.2
+Louisiana,LA,2000,0.2
+Louisiana,LA,2001,0.24
+Louisiana,LA,2002,0.24
+Louisiana,LA,2003,0.36
+Louisiana,LA,2004,0.36
+Louisiana,LA,2005,0.36
+Louisiana,LA,2006,0.36
+Louisiana,LA,2007,0.36
+Louisiana,LA,2008,0.36
+Louisiana,LA,2009,0.36
+Louisiana,LA,2010,0.36
+Louisiana,LA,2011,0.36
+Louisiana,LA,2012,0.36
+Louisiana,LA,2013,0.36
+Louisiana,LA,2014,0.36
+Louisiana,LA,2015,0.36
+Louisiana,LA,2016,1.08
+Louisiana,LA,2017,1.08
+Louisiana,LA,2018,1.08
+Louisiana,LA,2019,1.08
+Maine,ME,1999,0.74
+Maine,ME,2000,0.74
+Maine,ME,2001,0.74
+Maine,ME,2002,1.0
+Maine,ME,2003,1.0
+Maine,ME,2004,1.0
+Maine,ME,2005,1.0
+Maine,ME,2006,2.0
+Maine,ME,2007,2.0
+Maine,ME,2008,2.0
+Maine,ME,2009,2.0
+Maine,ME,2010,2.0
+Maine,ME,2011,2.0
+Maine,ME,2012,2.0
+Maine,ME,2013,2.0
+Maine,ME,2014,2.0
+Maine,ME,2015,2.0
+Maine,ME,2016,2.0
+Maine,ME,2017,2.0
+Maine,ME,2018,2.0
+Maine,ME,2019,2.0
+Maryland,MD,1999,0.36
+Maryland,MD,2000,0.66
+Maryland,MD,2001,0.66
+Maryland,MD,2002,1.0
+Maryland,MD,2003,1.0
+Maryland,MD,2004,1.0
+Maryland,MD,2005,1.0
+Maryland,MD,2006,1.0
+Maryland,MD,2007,1.0
+Maryland,MD,2008,2.0
+Maryland,MD,2009,2.0
+Maryland,MD,2010,2.0
+Maryland,MD,2011,2.0
+Maryland,MD,2012,2.0
+Maryland,MD,2013,2.0
+Maryland,MD,2014,2.0
+Maryland,MD,2015,2.0
+Maryland,MD,2016,2.0
+Maryland,MD,2017,2.0
+Maryland,MD,2018,2.0
+Maryland,MD,2019,2.0
+Massachusetts,MA,1999,0.76
+Massachusetts,MA,2000,0.76
+Massachusetts,MA,2001,0.76
+Massachusetts,MA,2002,0.76
+Massachusetts,MA,2003,1.51
+Massachusetts,MA,2004,1.51
+Massachusetts,MA,2005,1.51
+Massachusetts,MA,2006,1.51
+Massachusetts,MA,2007,1.51
+Massachusetts,MA,2008,1.51
+Massachusetts,MA,2009,2.51
+Massachusetts,MA,2010,2.51
+Massachusetts,MA,2011,2.51
+Massachusetts,MA,2012,2.51
+Massachusetts,MA,2013,2.51
+Massachusetts,MA,2014,3.51
+Massachusetts,MA,2015,3.51
+Massachusetts,MA,2016,3.51
+Massachusetts,MA,2017,3.51
+Massachusetts,MA,2018,3.51
+Massachusetts,MA,2019,3.51
+Michigan,MI,1999,0.75
+Michigan,MI,2000,0.75
+Michigan,MI,2001,0.75
+Michigan,MI,2002,0.75
+Michigan,MI,2003,1.25
+Michigan,MI,2004,1.25
+Michigan,MI,2005,2.0
+Michigan,MI,2006,2.0
+Michigan,MI,2007,2.0
+Michigan,MI,2008,2.0
+Michigan,MI,2009,2.0
+Michigan,MI,2010,2.0
+Michigan,MI,2011,2.0
+Michigan,MI,2012,2.0
+Michigan,MI,2013,2.0
+Michigan,MI,2014,2.0
+Michigan,MI,2015,2.0
+Michigan,MI,2016,2.0
+Michigan,MI,2017,2.0
+Michigan,MI,2018,2.0
+Michigan,MI,2019,2.0
+Minnesota,MN,1999,0.48
+Minnesota,MN,2000,0.48
+Minnesota,MN,2001,0.48
+Minnesota,MN,2002,0.48
+Minnesota,MN,2003,0.48
+Minnesota,MN,2004,0.48
+Minnesota,MN,2005,0.48
+Minnesota,MN,2006,1.485
+Minnesota,MN,2007,1.493
+Minnesota,MN,2008,1.493
+Minnesota,MN,2009,1.56
+Minnesota,MN,2010,1.56
+Minnesota,MN,2011,1.576
+Minnesota,MN,2012,1.6
+Minnesota,MN,2013,1.6
+Minnesota,MN,2014,3.342
+Minnesota,MN,2015,3.426
+Minnesota,MN,2016,3.543
+Minnesota,MN,2017,3.59
+Minnesota,MN,2018,3.614
+Minnesota,MN,2019,3.628
+Mississippi,MS,1999,0.18
+Mississippi,MS,2000,0.18
+Mississippi,MS,2001,0.18
+Mississippi,MS,2002,0.18
+Mississippi,MS,2003,0.18
+Mississippi,MS,2004,0.18
+Mississippi,MS,2005,0.18
+Mississippi,MS,2006,0.18
+Mississippi,MS,2007,0.18
+Mississippi,MS,2008,0.18
+Mississippi,MS,2009,0.68
+Mississippi,MS,2010,0.68
+Mississippi,MS,2011,0.68
+Mississippi,MS,2012,0.68
+Mississippi,MS,2013,0.68
+Mississippi,MS,2014,0.68
+Mississippi,MS,2015,0.68
+Mississippi,MS,2016,0.68
+Mississippi,MS,2017,0.68
+Mississippi,MS,2018,0.68
+Mississippi,MS,2019,0.68
+Missouri,MO,1999,0.17
+Missouri,MO,2000,0.17
+Missouri,MO,2001,0.17
+Missouri,MO,2002,0.17
+Missouri,MO,2003,0.17
+Missouri,MO,2004,0.17
+Missouri,MO,2005,0.17
+Missouri,MO,2006,0.17
+Missouri,MO,2007,0.17
+Missouri,MO,2008,0.17
+Missouri,MO,2009,0.17
+Missouri,MO,2010,0.17
+Missouri,MO,2011,0.17
+Missouri,MO,2012,0.17
+Missouri,MO,2013,0.17
+Missouri,MO,2014,0.17
+Missouri,MO,2015,0.17
+Missouri,MO,2016,0.17
+Missouri,MO,2017,0.17
+Missouri,MO,2018,0.17
+Missouri,MO,2019,0.17
+Montana,MT,1999,0.18
+Montana,MT,2000,0.18
+Montana,MT,2001,0.18
+Montana,MT,2002,0.18
+Montana,MT,2003,0.7
+Montana,MT,2004,0.7
+Montana,MT,2005,1.7
+Montana,MT,2006,1.7
+Montana,MT,2007,1.7
+Montana,MT,2008,1.7
+Montana,MT,2009,1.7
+Montana,MT,2010,1.7
+Montana,MT,2011,1.7
+Montana,MT,2012,1.7
+Montana,MT,2013,1.7
+Montana,MT,2014,1.7
+Montana,MT,2015,1.7
+Montana,MT,2016,1.7
+Montana,MT,2017,1.7
+Montana,MT,2018,1.7
+Montana,MT,2019,1.7
+Nebraska,NE,1999,0.34
+Nebraska,NE,2000,0.34
+Nebraska,NE,2001,0.34
+Nebraska,NE,2002,0.34
+Nebraska,NE,2003,0.64
+Nebraska,NE,2004,0.64
+Nebraska,NE,2005,0.64
+Nebraska,NE,2006,0.64
+Nebraska,NE,2007,0.64
+Nebraska,NE,2008,0.64
+Nebraska,NE,2009,0.64
+Nebraska,NE,2010,0.64
+Nebraska,NE,2011,0.64
+Nebraska,NE,2012,0.64
+Nebraska,NE,2013,0.64
+Nebraska,NE,2014,0.64
+Nebraska,NE,2015,0.64
+Nebraska,NE,2016,0.64
+Nebraska,NE,2017,0.64
+Nebraska,NE,2018,0.64
+Nebraska,NE,2019,0.64
+Nevada,NV,1999,0.35
+Nevada,NV,2000,0.35
+Nevada,NV,2001,0.35
+Nevada,NV,2002,0.35
+Nevada,NV,2003,0.35
+Nevada,NV,2004,0.8
+Nevada,NV,2005,0.8
+Nevada,NV,2006,0.8
+Nevada,NV,2007,0.8
+Nevada,NV,2008,0.8
+Nevada,NV,2009,0.8
+Nevada,NV,2010,0.8
+Nevada,NV,2011,0.8
+Nevada,NV,2012,0.8
+Nevada,NV,2013,0.8
+Nevada,NV,2014,0.8
+Nevada,NV,2015,0.8
+Nevada,NV,2016,1.8
+Nevada,NV,2017,1.8
+Nevada,NV,2018,1.8
+Nevada,NV,2019,1.8
+New Hampshire,NH,1999,0.37
+New Hampshire,NH,2000,0.52
+New Hampshire,NH,2001,0.52
+New Hampshire,NH,2002,0.52
+New Hampshire,NH,2003,0.52
+New Hampshire,NH,2004,0.52
+New Hampshire,NH,2005,0.52
+New Hampshire,NH,2006,0.8
+New Hampshire,NH,2007,0.8
+New Hampshire,NH,2008,1.08
+New Hampshire,NH,2009,1.33
+New Hampshire,NH,2010,1.78
+New Hampshire,NH,2011,1.78
+New Hampshire,NH,2012,1.68
+New Hampshire,NH,2013,1.68
+New Hampshire,NH,2014,1.78
+New Hampshire,NH,2015,1.78
+New Hampshire,NH,2016,1.78
+New Hampshire,NH,2017,1.78
+New Hampshire,NH,2018,1.78
+New Hampshire,NH,2019,1.78
+New Jersey,NJ,1999,0.8
+New Jersey,NJ,2000,0.8
+New Jersey,NJ,2001,0.8
+New Jersey,NJ,2002,0.8
+New Jersey,NJ,2003,1.5
+New Jersey,NJ,2004,2.05
+New Jersey,NJ,2005,2.4
+New Jersey,NJ,2006,2.4
+New Jersey,NJ,2007,2.575
+New Jersey,NJ,2008,2.575
+New Jersey,NJ,2009,2.575
+New Jersey,NJ,2010,2.7
+New Jersey,NJ,2011,2.7
+New Jersey,NJ,2012,2.7
+New Jersey,NJ,2013,2.7
+New Jersey,NJ,2014,2.7
+New Jersey,NJ,2015,2.7
+New Jersey,NJ,2016,2.7
+New Jersey,NJ,2017,2.7
+New Jersey,NJ,2018,2.7
+New Jersey,NJ,2019,2.7
+New Mexico,NM,1999,0.21
+New Mexico,NM,2000,0.21
+New Mexico,NM,2001,0.21
+New Mexico,NM,2002,0.21
+New Mexico,NM,2003,0.21
+New Mexico,NM,2004,0.91
+New Mexico,NM,2005,0.91
+New Mexico,NM,2006,0.91
+New Mexico,NM,2007,0.91
+New Mexico,NM,2008,0.91
+New Mexico,NM,2009,0.91
+New Mexico,NM,2010,0.91
+New Mexico,NM,2011,1.66
+New Mexico,NM,2012,1.66
+New Mexico,NM,2013,1.66
+New Mexico,NM,2014,1.66
+New Mexico,NM,2015,1.66
+New Mexico,NM,2016,1.66
+New Mexico,NM,2017,1.66
+New Mexico,NM,2018,1.66
+New Mexico,NM,2019,1.66
+New York,NY,1999,0.56
+New York,NY,2000,1.11
+New York,NY,2001,1.11
+New York,NY,2002,1.5
+New York,NY,2003,1.5
+New York,NY,2004,1.5
+New York,NY,2005,1.5
+New York,NY,2006,1.5
+New York,NY,2007,1.5
+New York,NY,2008,2.75
+New York,NY,2009,2.75
+New York,NY,2010,2.75
+New York,NY,2011,4.35
+New York,NY,2012,4.35
+New York,NY,2013,4.35
+New York,NY,2014,4.35
+New York,NY,2015,4.35
+New York,NY,2016,4.35
+New York,NY,2017,4.35
+New York,NY,2018,4.35
+New York,NY,2019,4.35
+North Carolina,NC,1999,0.05
+North Carolina,NC,2000,0.05
+North Carolina,NC,2001,0.05
+North Carolina,NC,2002,0.05
+North Carolina,NC,2003,0.05
+North Carolina,NC,2004,0.05
+North Carolina,NC,2005,0.05
+North Carolina,NC,2006,0.3
+North Carolina,NC,2007,0.35
+North Carolina,NC,2008,0.35
+North Carolina,NC,2009,0.35
+North Carolina,NC,2010,0.45
+North Carolina,NC,2011,0.45
+North Carolina,NC,2012,0.45
+North Carolina,NC,2013,0.45
+North Carolina,NC,2014,0.45
+North Carolina,NC,2015,0.45
+North Carolina,NC,2016,0.45
+North Carolina,NC,2017,0.45
+North Carolina,NC,2018,0.45
+North Carolina,NC,2019,0.45
+North Dakota,ND,1999,0.44
+North Dakota,ND,2000,0.44
+North Dakota,ND,2001,0.44
+North Dakota,ND,2002,0.44
+North Dakota,ND,2003,0.44
+North Dakota,ND,2004,0.44
+North Dakota,ND,2005,0.44
+North Dakota,ND,2006,0.44
+North Dakota,ND,2007,0.44
+North Dakota,ND,2008,0.44
+North Dakota,ND,2009,0.44
+North Dakota,ND,2010,0.44
+North Dakota,ND,2011,0.44
+North Dakota,ND,2012,0.44
+North Dakota,ND,2013,0.44
+North Dakota,ND,2014,0.44
+North Dakota,ND,2015,0.44
+North Dakota,ND,2016,0.44
+North Dakota,ND,2017,0.44
+North Dakota,ND,2018,0.44
+North Dakota,ND,2019,0.44
+Ohio,OH,1999,0.24
+Ohio,OH,2000,0.24
+Ohio,OH,2001,0.24
+Ohio,OH,2002,0.24
+Ohio,OH,2003,0.55
+Ohio,OH,2004,0.55
+Ohio,OH,2005,0.55
+Ohio,OH,2006,1.25
+Ohio,OH,2007,1.25
+Ohio,OH,2008,1.25
+Ohio,OH,2009,1.25
+Ohio,OH,2010,1.25
+Ohio,OH,2011,1.25
+Ohio,OH,2012,1.25
+Ohio,OH,2013,1.25
+Ohio,OH,2014,1.25
+Ohio,OH,2015,1.25
+Ohio,OH,2016,1.6
+Ohio,OH,2017,1.6
+Ohio,OH,2018,1.6
+Ohio,OH,2019,1.6
+Oklahoma,OK,1999,0.23
+Oklahoma,OK,2000,0.23
+Oklahoma,OK,2001,0.23
+Oklahoma,OK,2002,0.23
+Oklahoma,OK,2003,0.23
+Oklahoma,OK,2004,0.23
+Oklahoma,OK,2005,1.03
+Oklahoma,OK,2006,1.03
+Oklahoma,OK,2007,1.03
+Oklahoma,OK,2008,1.03
+Oklahoma,OK,2009,1.03
+Oklahoma,OK,2010,1.03
+Oklahoma,OK,2011,1.03
+Oklahoma,OK,2012,1.03
+Oklahoma,OK,2013,1.03
+Oklahoma,OK,2014,1.03
+Oklahoma,OK,2015,1.03
+Oklahoma,OK,2016,1.03
+Oklahoma,OK,2017,1.03
+Oklahoma,OK,2018,1.03
+Oklahoma,OK,2019,2.03
+Oregon,OR,1999,0.68
+Oregon,OR,2000,0.68
+Oregon,OR,2001,0.68
+Oregon,OR,2002,0.68
+Oregon,OR,2003,1.28
+Oregon,OR,2004,1.18
+Oregon,OR,2005,1.18
+Oregon,OR,2006,1.18
+Oregon,OR,2007,1.18
+Oregon,OR,2008,1.18
+Oregon,OR,2009,1.18
+Oregon,OR,2010,1.18
+Oregon,OR,2011,1.18
+Oregon,OR,2012,1.18
+Oregon,OR,2013,1.18
+Oregon,OR,2014,1.31
+Oregon,OR,2015,1.31
+Oregon,OR,2016,1.32
+Oregon,OR,2017,1.32
+Oregon,OR,2018,1.33
+Oregon,OR,2019,1.33
+Pennsylvania,PA,1999,0.31
+Pennsylvania,PA,2000,0.31
+Pennsylvania,PA,2001,0.31
+Pennsylvania,PA,2002,0.31
+Pennsylvania,PA,2003,1.0
+Pennsylvania,PA,2004,1.35
+Pennsylvania,PA,2005,1.35
+Pennsylvania,PA,2006,1.35
+Pennsylvania,PA,2007,1.35
+Pennsylvania,PA,2008,1.35
+Pennsylvania,PA,2009,1.35
+Pennsylvania,PA,2010,1.6
+Pennsylvania,PA,2011,1.6
+Pennsylvania,PA,2012,1.6
+Pennsylvania,PA,2013,1.6
+Pennsylvania,PA,2014,1.6
+Pennsylvania,PA,2015,1.6
+Pennsylvania,PA,2016,1.6
+Pennsylvania,PA,2017,2.6
+Pennsylvania,PA,2018,2.6
+Pennsylvania,PA,2019,2.6
+Rhode Island,RI,1999,0.71
+Rhode Island,RI,2000,0.71
+Rhode Island,RI,2001,0.71
+Rhode Island,RI,2002,1.32
+Rhode Island,RI,2003,1.32
+Rhode Island,RI,2004,1.71
+Rhode Island,RI,2005,2.46
+Rhode Island,RI,2006,2.46
+Rhode Island,RI,2007,2.46
+Rhode Island,RI,2008,2.46
+Rhode Island,RI,2009,3.46
+Rhode Island,RI,2010,3.46
+Rhode Island,RI,2011,3.46
+Rhode Island,RI,2012,3.46
+Rhode Island,RI,2013,3.5
+Rhode Island,RI,2014,3.5
+Rhode Island,RI,2015,3.5
+Rhode Island,RI,2016,3.75
+Rhode Island,RI,2017,3.75
+Rhode Island,RI,2018,4.25
+Rhode Island,RI,2019,4.25
+South Carolina,SC,1999,0.07
+South Carolina,SC,2000,0.07
+South Carolina,SC,2001,0.07
+South Carolina,SC,2002,0.07
+South Carolina,SC,2003,0.07
+South Carolina,SC,2004,0.07
+South Carolina,SC,2005,0.07
+South Carolina,SC,2006,0.07
+South Carolina,SC,2007,0.07
+South Carolina,SC,2008,0.07
+South Carolina,SC,2009,0.07
+South Carolina,SC,2010,0.07
+South Carolina,SC,2011,0.57
+South Carolina,SC,2012,0.57
+South Carolina,SC,2013,0.57
+South Carolina,SC,2014,0.57
+South Carolina,SC,2015,0.57
+South Carolina,SC,2016,0.57
+South Carolina,SC,2017,0.57
+South Carolina,SC,2018,0.57
+South Carolina,SC,2019,0.57
+South Dakota,SD,1999,0.33
+South Dakota,SD,2000,0.33
+South Dakota,SD,2001,0.33
+South Dakota,SD,2002,0.33
+South Dakota,SD,2003,0.53
+South Dakota,SD,2004,0.53
+South Dakota,SD,2005,0.53
+South Dakota,SD,2006,0.53
+South Dakota,SD,2007,1.53
+South Dakota,SD,2008,1.53
+South Dakota,SD,2009,1.53
+South Dakota,SD,2010,1.53
+South Dakota,SD,2011,1.53
+South Dakota,SD,2012,1.53
+South Dakota,SD,2013,1.53
+South Dakota,SD,2014,1.53
+South Dakota,SD,2015,1.53
+South Dakota,SD,2016,1.53
+South Dakota,SD,2017,1.53
+South Dakota,SD,2018,1.53
+South Dakota,SD,2019,1.53
+Tennessee,TN,1999,0.13
+Tennessee,TN,2000,0.13
+Tennessee,TN,2001,0.13
+Tennessee,TN,2002,0.13
+Tennessee,TN,2003,0.2
+Tennessee,TN,2004,0.2
+Tennessee,TN,2005,0.2
+Tennessee,TN,2006,0.2
+Tennessee,TN,2007,0.2
+Tennessee,TN,2008,0.62
+Tennessee,TN,2009,0.62
+Tennessee,TN,2010,0.62
+Tennessee,TN,2011,0.62
+Tennessee,TN,2012,0.62
+Tennessee,TN,2013,0.62
+Tennessee,TN,2014,0.62
+Tennessee,TN,2015,0.62
+Tennessee,TN,2016,0.62
+Tennessee,TN,2017,0.62
+Tennessee,TN,2018,0.62
+Tennessee,TN,2019,0.62
+Texas,TX,1999,0.41
+Texas,TX,2000,0.41
+Texas,TX,2001,0.41
+Texas,TX,2002,0.41
+Texas,TX,2003,0.41
+Texas,TX,2004,0.41
+Texas,TX,2005,0.41
+Texas,TX,2006,0.41
+Texas,TX,2007,1.41
+Texas,TX,2008,1.41
+Texas,TX,2009,1.41
+Texas,TX,2010,1.41
+Texas,TX,2011,1.41
+Texas,TX,2012,1.41
+Texas,TX,2013,1.41
+Texas,TX,2014,1.41
+Texas,TX,2015,1.41
+Texas,TX,2016,1.41
+Texas,TX,2017,1.41
+Texas,TX,2018,1.41
+Texas,TX,2019,1.41
+Utah,UT,1999,0.515
+Utah,UT,2000,0.515
+Utah,UT,2001,0.515
+Utah,UT,2002,0.695
+Utah,UT,2003,0.695
+Utah,UT,2004,0.695
+Utah,UT,2005,0.695
+Utah,UT,2006,0.695
+Utah,UT,2007,0.695
+Utah,UT,2008,0.695
+Utah,UT,2009,0.695
+Utah,UT,2010,0.695
+Utah,UT,2011,1.7
+Utah,UT,2012,1.7
+Utah,UT,2013,1.7
+Utah,UT,2014,1.7
+Utah,UT,2015,1.7
+Utah,UT,2016,1.7
+Utah,UT,2017,1.7
+Utah,UT,2018,1.7
+Utah,UT,2019,1.7
+Vermont,VT,1999,0.44
+Vermont,VT,2000,0.44
+Vermont,VT,2001,0.44
+Vermont,VT,2002,0.44
+Vermont,VT,2003,0.93
+Vermont,VT,2004,1.19
+Vermont,VT,2005,1.19
+Vermont,VT,2006,1.19
+Vermont,VT,2007,1.79
+Vermont,VT,2008,1.79
+Vermont,VT,2009,1.99
+Vermont,VT,2010,2.24
+Vermont,VT,2011,2.24
+Vermont,VT,2012,2.62
+Vermont,VT,2013,2.62
+Vermont,VT,2014,2.62
+Vermont,VT,2015,2.75
+Vermont,VT,2016,3.08
+Vermont,VT,2017,3.08
+Vermont,VT,2018,3.08
+Vermont,VT,2019,3.08
+Virginia,VA,1999,0.025
+Virginia,VA,2000,0.025
+Virginia,VA,2001,0.025
+Virginia,VA,2002,0.025
+Virginia,VA,2003,0.025
+Virginia,VA,2004,0.025
+Virginia,VA,2005,0.3
+Virginia,VA,2006,0.3
+Virginia,VA,2007,0.3
+Virginia,VA,2008,0.3
+Virginia,VA,2009,0.3
+Virginia,VA,2010,0.3
+Virginia,VA,2011,0.3
+Virginia,VA,2012,0.3
+Virginia,VA,2013,0.3
+Virginia,VA,2014,0.3
+Virginia,VA,2015,0.3
+Virginia,VA,2016,0.3
+Virginia,VA,2017,0.3
+Virginia,VA,2018,0.3
+Virginia,VA,2019,0.3
+Washington,WA,1999,0.825
+Washington,WA,2000,0.825
+Washington,WA,2001,0.825
+Washington,WA,2002,1.425
+Washington,WA,2003,1.425
+Washington,WA,2004,1.425
+Washington,WA,2005,1.425
+Washington,WA,2006,2.025
+Washington,WA,2007,2.025
+Washington,WA,2008,2.025
+Washington,WA,2009,2.025
+Washington,WA,2010,3.025
+Washington,WA,2011,3.025
+Washington,WA,2012,3.025
+Washington,WA,2013,3.025
+Washington,WA,2014,3.025
+Washington,WA,2015,3.025
+Washington,WA,2016,3.025
+Washington,WA,2017,3.025
+Washington,WA,2018,3.025
+Washington,WA,2019,3.025
+West Virginia,WV,1999,0.17
+West Virginia,WV,2000,0.17
+West Virginia,WV,2001,0.17
+West Virginia,WV,2002,0.17
+West Virginia,WV,2003,0.55
+West Virginia,WV,2004,0.55
+West Virginia,WV,2005,0.55
+West Virginia,WV,2006,0.55
+West Virginia,WV,2007,0.55
+West Virginia,WV,2008,0.55
+West Virginia,WV,2009,0.55
+West Virginia,WV,2010,0.55
+West Virginia,WV,2011,0.55
+West Virginia,WV,2012,0.55
+West Virginia,WV,2013,0.55
+West Virginia,WV,2014,0.55
+West Virginia,WV,2015,0.55
+West Virginia,WV,2016,0.55
+West Virginia,WV,2017,1.2
+West Virginia,WV,2018,1.2
+West Virginia,WV,2019,1.2
+Wisconsin,WI,1999,0.59
+Wisconsin,WI,2000,0.59
+Wisconsin,WI,2001,0.59
+Wisconsin,WI,2002,0.77
+Wisconsin,WI,2003,0.77
+Wisconsin,WI,2004,0.77
+Wisconsin,WI,2005,0.77
+Wisconsin,WI,2006,0.77
+Wisconsin,WI,2007,0.77
+Wisconsin,WI,2008,1.77
+Wisconsin,WI,2009,1.77
+Wisconsin,WI,2010,2.52
+Wisconsin,WI,2011,2.52
+Wisconsin,WI,2012,2.52
+Wisconsin,WI,2013,2.52
+Wisconsin,WI,2014,2.52
+Wisconsin,WI,2015,2.52
+Wisconsin,WI,2016,2.52
+Wisconsin,WI,2017,2.52
+Wisconsin,WI,2018,2.52
+Wisconsin,WI,2019,2.52
+Wyoming,WY,1999,0.12
+Wyoming,WY,2000,0.12
+Wyoming,WY,2001,0.12
+Wyoming,WY,2002,0.12
+Wyoming,WY,2003,0.12
+Wyoming,WY,2004,0.6
+Wyoming,WY,2005,0.6
+Wyoming,WY,2006,0.6
+Wyoming,WY,2007,0.6
+Wyoming,WY,2008,0.6
+Wyoming,WY,2009,0.6
+Wyoming,WY,2010,0.6
+Wyoming,WY,2011,0.6
+Wyoming,WY,2012,0.6
+Wyoming,WY,2013,0.6
+Wyoming,WY,2014,0.6
+Wyoming,WY,2015,0.6
+Wyoming,WY,2016,0.6
+Wyoming,WY,2017,0.6
+Wyoming,WY,2018,0.6
+Wyoming,WY,2019,0.6
