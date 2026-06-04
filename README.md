@@ -1,5 +1,13 @@
-# medicaid-heart-disease-economics-paper
-This repository documents how to reproduce the results from my economics paper on the effect of Medicaid Expansion on Ischemic Heart Disease
+# The Effect of Medicaid Expansion on Ischaemic Heart Disease Mortality (1999 - 2019)
+
+## Project Overview
+This repository documents an econometric analysis investigating the relationship between Medicaid Expansion and deaths from heart disease among US states. The study pulls data from five primary sources to create a state-year panel from 1999 to 2019 for difference-in-difference testing. 
+
+### Key Insights
+- Methodology: The regression was run with state and time fixed effects, along with controls for unemployment, poverty, and cigarette taxes
+- Findings: While the results did not produce statistically significant effects that were distinct from zero, we were able to rule out large effects and emphasize the impact of cigarette taxes
+- Limitations: Given a US population of over 300 million, the impact for the only 20 million people that recieved insurance through Expansion may not be visible at the state level.
+
 
 # file naming mechanism 
 Each file starts with a two-digit number. The first digit represents the section in the file, and the second digit is the file number within that section. For example, in the analysis folder, 23-reg_adults_45_56 is the 2nd section for regression files and is the 3rd file in there. The full breakdown is below:
@@ -18,3 +26,10 @@ Analysis - Contains .do files that were run in Stata
 30-37 - Files to create regression tables for each corresponding regression
 Output - png and text files of Event studies and regression tables
 Table names provide full description of which group they correspond to
+
+
+
+### About the Author
+- Name: *David Akinyoyenu*
+- University: *MIT, class of 2027*
+- Major: *6-14, Computer Science, Data Science, and Economics*
