@@ -9,31 +9,20 @@ This repository documents an econometric analysis investigating the relationship
 - Limitations: Given a US population of over 300 million, the impact for the only 20 million people that recieved insurance through Expansion may not be visible at the state level.
 
 ## 2. Technical Workflow and Reproducability
-This project was built for all results to be reproducable. The workflow is split into 3 core components: [Data Preparation](./build), Statistical Analysis, and Results. 
+This project was built for all results to be reproducable. The workflow is split into 3 overall folders for Data Preparation, Statistical Analysis, and Results respectively: Data Preparation [build folder](./build), Statistical Analysis, and Results. Before explaining each folder, section A briefly explains the naming convention for each file.
 
-```Plaintext
-/Project_Root
-├── README.md
-├── Paper.pdf
-│  
-├── /Build
-│   ├── 01-data_scrape.py
-│   ├── ...    
-│   └── 10-merge_adults.py
-│
-├── /Analysis
-│   ├── 01-data_scrape.py
-│   ├── ...    
-│   └── 10-merge_adults.py
-│  
-└── /Output
-    ├── 10-event_study.do
-    ├── ...    
-    └── 20-regression_main.do
+### A. File Naming Convention
+To maintain a structured research trail, each file starts with a two-digit number, followed by a short description. The first digit represents the section within a file, and the second digit is the file number within that section. A small example in the Analysis folder is below.
+- Example: file 23-reg_adults_45_65
+    - First digit: 2 refers to section 2 within the Analysis folder, regression files
+    - Second digit: 3 implies this the third file in the section
+    - Description: This file is a regression for adults aged 45 to 64
 
-```
-### A. Data Preparation
-
+### B. Data Preparation
+The build file is the first folder of our analysis and details how to gather data from our five primary sources to build a state-year panel dataset from 1999 to 2019 for all 50 US states. 
+- Tools: Python, DuckDB, SQL
+- Process: Pull data from public health and economic databases
+    - 
 
 
 
