@@ -1,12 +1,66 @@
 # The Effect of Medicaid Expansion on Ischaemic Heart Disease Mortality (1999 - 2019)
 
-## Project Overview
+## 1. Project Overview
 This repository documents an econometric analysis investigating the relationship between Medicaid Expansion and deaths from heart disease among US states. The study pulls data from five primary sources to create a state-year panel from 1999 to 2019 for difference-in-difference testing. 
 
-### Key Insights
+### A. Key Insights
 - Methodology: The regression was run with state and time fixed effects, along with controls for unemployment, poverty, and cigarette taxes
 - Findings: While the results did not produce statistically significant effects that were distinct from zero, we were able to rule out large effects and emphasize the impact of cigarette taxes
 - Limitations: Given a US population of over 300 million, the impact for the only 20 million people that recieved insurance through Expansion may not be visible at the state level.
+
+## 2. Technical Workflow and Reproducability
+This project was built for all results to be reproducable. The workflow is split into 3 core components: [Data Preparation](./build), Statistical Analysis, and Results. 
+
+```Plaintext
+/Project_Root
+├── README.md
+├── Paper.pdf
+│  
+├── /Build
+│   ├── 01-data_scrape.py
+│   ├── ...    
+│   └── 10-merge_adults.py
+│
+├── /Analysis
+│   ├── 01-data_scrape.py
+│   ├── ...    
+│   └── 10-merge_adults.py
+│  
+└── /Output
+    ├── 10-event_study.do
+    ├── ...    
+    └── 20-regression_main.do
+
+```
+### A. Data Preparation
+
+
+
+
+### D. File Tree Diagram
+```Plaintext
+/Project_Root
+├── README.md
+├── Paper.pdf
+│  
+├── /Build
+│   ├── 01-data_scrape.py
+│   ├── ...    
+│   └── 10-merge_adults.py
+│
+├── /Analysis
+│   ├── 01-data_scrape.py
+│   ├── ...    
+│   └── 10-merge_adults.py
+│  
+└── /Output
+    ├── 10-event_study.do
+    ├── ...    
+    └── 20-regression_main.do
+
+```
+
+
 
 
 # file naming mechanism 
