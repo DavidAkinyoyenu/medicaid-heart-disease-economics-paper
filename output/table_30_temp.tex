@@ -1,0 +1,27 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{DiD: Heart Disease Mortality, Males 55--64}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                    &\multicolumn{1}{c}{Crude Rate}&\multicolumn{1}{c}{Log Crude Rate}&\multicolumn{1}{c}{Crude Rate + Cig}\\
+\midrule
+treat\_post          &       2.249         &    -0.00743         &       2.779         \\
+                    &     (4.984)         &    (0.0244)         &     (4.915)         \\
+\addlinespace
+unemployment\_rate   &      -1.491         &    -0.00488         &      -1.456         \\
+                    &     (1.127)         &   (0.00547)         &     (1.101)         \\
+\addlinespace
+poverty\_rate        &      -1.093         &  -0.0000248         &      -1.150         \\
+                    &     (1.509)         &   (0.00750)         &     (1.557)         \\
+\addlinespace
+cigarette\_tax\_per\_pack&                     &                     &      -0.968         \\
+                    &                     &                     &     (3.084)         \\
+\midrule
+Observations        &        1071         &        1071         &        1071         \\
+R-squared           &       0.903         &       0.898         &       0.903         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors clustered at the state level.}\\
+\multicolumn{4}{l}{\footnotesize All regressions include state and year fixed effects.}\\
+\end{tabular}
+\end{table}

@@ -1,0 +1,28 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{DiD: Heart Disease Mortality, Males 45--64}
+\begin{tabular}{l*{4}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
+                    &\multicolumn{1}{c}{No FE}&\multicolumn{1}{c}{State+Year FE}&\multicolumn{1}{c}{+Econ Controls}&\multicolumn{1}{c}{+Cigarette Tax}\\
+\midrule
+treat\_post          &      -21.97\sym{***}&       0.599         &       0.894         &       1.499         \\
+                    &     (5.030)         &     (3.383)         &     (3.549)         &     (3.340)         \\
+\addlinespace
+unemployment\_rate   &                     &                     &      -1.443\sym{*}  &      -1.404\sym{*}  \\
+                    &                     &                     &     (0.821)         &     (0.793)         \\
+\addlinespace
+poverty\_rate        &                     &                     &      -0.575         &      -0.640         \\
+                    &                     &                     &     (1.177)         &     (1.164)         \\
+\addlinespace
+cigarette\_tax\_per\_pack&                     &                     &                     &      -1.105         \\
+                    &                     &                     &                     &     (2.091)         \\
+\midrule
+State FE            &          No         &         Yes         &         Yes         &         Yes         \\
+Year FE             &          No         &         Yes         &         Yes         &         Yes         \\
+Observations        &        1071         &        1071         &        1071         &        1071         \\
+R-squared           &       0.047         &       0.909         &       0.910         &       0.910         \\
+\bottomrule
+\multicolumn{5}{l}{\footnotesize Standard errors clustered at the state level.}\\
+\end{tabular}
+\end{table}

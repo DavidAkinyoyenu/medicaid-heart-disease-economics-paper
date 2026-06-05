@@ -1,0 +1,28 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{DiD: All-Cause Mortality, Adults 25--64}
+\begin{tabular}{l*{4}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
+                    &\multicolumn{1}{c}{No FE}&\multicolumn{1}{c}{State+Year FE}&\multicolumn{1}{c}{+Econ Controls}&\multicolumn{1}{c}{+Cigarette Tax}\\
+\midrule
+treat\_post          &       12.53         &      -5.540         &      -7.943         &       0.350         \\
+                    &     (13.04)         &     (8.209)         &     (8.894)         &     (7.569)         \\
+\addlinespace
+unemployment\_rate   &                     &                     &      -5.602\sym{**} &      -5.057\sym{**} \\
+                    &                     &                     &     (2.456)         &     (2.216)         \\
+\addlinespace
+poverty\_rate        &                     &                     &       8.896\sym{*}  &       8.001\sym{*}  \\
+                    &                     &                     &     (4.958)         &     (4.202)         \\
+\addlinespace
+cigarette\_tax\_per\_pack&                     &                     &                     &      -15.16\sym{**} \\
+                    &                     &                     &                     &     (6.478)         \\
+\midrule
+State FE            &          No         &         Yes         &         Yes         &         Yes         \\
+Year FE             &          No         &         Yes         &         Yes         &         Yes         \\
+Observations        &        1071         &        1071         &        1071         &        1071         \\
+R-squared           &       0.003         &       0.924         &       0.929         &       0.935         \\
+\bottomrule
+\multicolumn{5}{l}{\footnotesize Standard errors clustered at the state level.}\\
+\end{tabular}
+\end{table}
