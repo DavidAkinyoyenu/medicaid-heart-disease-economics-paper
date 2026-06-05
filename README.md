@@ -9,7 +9,7 @@ This repository documents an econometric analysis investigating the relationship
 - Limitations: Given a US population of over 300 million, the impact for the only 20 million people that recieved insurance through Expansion may not be visible at the state level.
 
 ## 2. Technical Workflow and Reproducability
-This project was built for all results to be reproducable. Section A outlines the naming convention for each file, and the following sections explain the 3 core steps of this project: Data Preparation, Statistical Analysis, and Results. Each step has its respective folder as [build ](./build), blank, or blank.
+This project was built for all results to be reproducable. Section A outlines the naming convention for each file, and the following sections explain the 3 core steps of this project: Data Preparation, Statistical Analysis, and Results. Each step has its respective folder as [build ](./build), [analysis ](./analysis), or [output ](./output).
 
 ### A. File Naming Convention
 To maintain a structured research trail, each file starts with a two-digit number, followed by a short description. The first digit represents the section within a folder, and the second digit is the file number within that section. A small example in the Analysis folder is below.
@@ -49,7 +49,7 @@ The build file is the first folder of our analysis and details how to gather dat
     - Section 1: Python files that merge data files into complete state-year panels, starting with 10-merges_US_MEN_55_64.py 
     - Sub folders: Raw files are in [raw](./build/raw), files in the process of being modified are in [intermediate](./build/intermediate), and final analysis-ready panel sets are in [output](./build/output)
 
-### C. Statistical Analysis
+### C. Statistical Analysis - [analysis ](./analysis)
 The build file is the first folder of our analysis and details how to gather data from our five primary sources to build a state-year panel dataset from 1999 to 2019 for all 50 US states. 
 - Tools: Stata
 - Process: Use the completed panel data sets from the build file to run difference-in-difference regressions. Use several subgroups of adults and include/remove control variables such as unemployment and cigarette taxes. Add an event study, summary statistics, and regression tables to clearly present findings.
@@ -58,26 +58,8 @@ The build file is the first folder of our analysis and details how to gather dat
     - Section 2: Do files to run core regression models for various demographic subgroups, starting with 20-reg_men_55_64.do
     - Section 3: Do files to generate publication-ready regression tables for each respective subset of adults in section 2, starting with 30-table_men_55_64.do
 
-
-# file naming mechanism 
-Each file starts with a two-digit number. The first digit represents the section in the file, and the second digit is the file number within that section. For example, in the analysis folder, 23-reg_adults_45_56 is the 2nd section for regression files and is the 3rd file in there. The full breakdown is below:
-
-Build - Contains the Python and SQL used to scrap data from data sets or online and get them into a panel format
-Note: I used DuckDB to write SQL within the python file
-  01 - 010 - Python files to get state year data for 1999 to 2019 for Expansion date, unemployment, poverty, cigarette tax, and crude mortality for multiple subgroups
-  10-17 - Python files that merged the data together into one panel set from all sources for a particular subgroup, such as adults 45-64
-Subfiles
-Raw - raw data files
-Intermediate - intermediate csv and parquet files, such as poverty rate for all state year combinations
-Output - csv and parquet files of full panel sets for all subgroups
-Analysis - Contains .do files that were run in Stata
-10-12 - Event studies and summary tables
-20-27 - Regression files for all groups
-30-37 - Files to create regression tables for each corresponding regression
-Output - png and text files of Event studies and regression tables
-Table names provide full description of which group they correspond to
-
-in [build folder](./build)
+### D. Statistical Analysis - [output ](./output).
+This final section contains the output of all regression analysis in the form of pictures for event studies and text files for summary statistics and regression tables. 
 
 
 ### About the Author
