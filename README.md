@@ -43,7 +43,7 @@ To maintain a structured research trail, each file starts with a two-digit numbe
 ### B. Data Preparation
 The build file is the first folder of our analysis and details how to gather data from our five primary sources to build a state-year panel dataset from 1999 to 2019 for all 50 US states. 
 - Tools: Python, DuckDB, SQL
-- Process: Pull data at the state level from [CDC Wonder](https://wonder.cdc.gov/mcd.html) for crude mortatility rate, [Kaiser Family Foundation](https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) for Expansion year, [Bureau of Labor Statistics](https://www.bls.gov/lau/rdscnp16.htm) for unemployment rate, [US census](https://www.census.gov/data/datasets/2024/demo/saipe/2024-state-and-county.html) for poverty rate, and the [CDC](https://data.cdc.gov/Policy/The-Tax-Burden-on-Tobacco-1970-2019/7nwe-3aj9/about_data) for cigarette taxes. 
+- Process: Pull data at the state level from [CDC Wonder](https://wonder.cdc.gov/mcd.html) for crude mortatility rate, [Kaiser Family Foundation](https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) for Expansion year, [Bureau of Labor Statistics](https://www.bls.gov/lau/rdscnp16.htm) for unemployment rate, [US census](https://www.census.gov/data/datasets/2024/demo/saipe/2024-state-and-county.html) for poverty rate, and the [CDC](https://healthdata.gov/CDC/The-Tax-Burden-on-Tobacco-1970-2019/etts-u9ii/about_data) for cigarette taxes. 
 
 ### D. File Tree Diagram
 ```Plaintext
