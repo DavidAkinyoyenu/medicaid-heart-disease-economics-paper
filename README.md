@@ -1,7 +1,7 @@
 # The Effect of Medicaid Expansion on Ischaemic Heart Disease Mortality (1999 - 2019)
 
 ## 1. Project Overview
-This repository documents an econometric analysis investigating the relationship between Medicaid Expansion and deaths from heart disease among US states. The study pulls data from five primary sources to create a state-year panel from 1999 to 2019 for difference-in-difference testing. 
+This repository documents an econometric analysis investigating the relationship between Medicaid Expansion and the mortatility rate from heart disease among US states. The study pulls data from five primary sources to create a state-year panel from 1999 to 2019 for difference-in-difference testing. 
 
 ### A. Key Insights
 - Methodology: The regression was run with state and time fixed effects, along with controls for unemployment, poverty, and cigarette taxes
@@ -9,19 +9,41 @@ This repository documents an econometric analysis investigating the relationship
 - Limitations: Given a US population of over 300 million, the impact for the only 20 million people that recieved insurance through Expansion may not be visible at the state level.
 
 ## 2. Technical Workflow and Reproducability
-This project was built for all results to be reproducable. The workflow is split into 3 overall folders for Data Preparation, Statistical Analysis, and Results respectively: Data Preparation [build folder](./build), Statistical Analysis, and Results. Before explaining each folder, section A briefly explains the naming convention for each file.
+This project was built for all results to be reproducable. Section A outlines the naming convention for each file, and the following sections explain the 3 core steps of this project: Data Preparation, Statistical Analysis, and Results. Each step has its respective folder as [build ](./build), blank, or blank.
 
 ### A. File Naming Convention
-To maintain a structured research trail, each file starts with a two-digit number, followed by a short description. The first digit represents the section within a file, and the second digit is the file number within that section. A small example in the Analysis folder is below.
+To maintain a structured research trail, each file starts with a two-digit number, followed by a short description. The first digit represents the section within a folder, and the second digit is the file number within that section. A small example in the Analysis folder is below.
 - Example: file 23-reg_adults_45_65
     - First digit: 2 refers to section 2 within the Analysis folder, regression files
     - Second digit: 3 implies this the third file in the section
     - Description: This file is a regression for adults aged 45 to 64
+- File Tree Diagram
+```Plaintext
+/Project_Root
+├── README.md
+├── Paper.pdf
+│  
+├── /Build
+│   ├── 01-data_scrape.py
+│   ├── ...    
+│   └── 10-merge_adults.py
+│
+├── /Analysis
+│   ├── 01-data_scrape.py
+│   ├── ...    
+│   └── 10-merge_adults.py
+│  
+└── /Output
+    ├── 10-event_study.do
+    ├── ...    
+    └── 20-regression_main.do
+
+```
 
 ### B. Data Preparation
 The build file is the first folder of our analysis and details how to gather data from our five primary sources to build a state-year panel dataset from 1999 to 2019 for all 50 US states. 
 - Tools: Python, DuckDB, SQL
-- Process: Pull data from public health and economic databases
+- Process: Pull data at the state level from [CDC Wonder]([url](https://wonder.cdc.gov/mcd.html)) for crude mortatility rate, Kaiser Family Foundation for Expansion year, Bureau of Labor Statistics for unemployment rate, US census for poverty rate, and the CDC for cigarette taxes. 
     - 
 
 
@@ -70,6 +92,7 @@ Analysis - Contains .do files that were run in Stata
 Output - png and text files of Event studies and regression tables
 Table names provide full description of which group they correspond to
 
+in [build folder](./build)
 
 
 ### About the Author
