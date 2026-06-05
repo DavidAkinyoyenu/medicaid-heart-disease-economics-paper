@@ -54,9 +54,9 @@ The build file is the first folder of our analysis and details how to gather dat
 - Tools: Stata
 - Process: Use the completed panel data sets from the build file to run difference-in-difference regressions. Use several subgroups of adults and include/remove control variables such as unemployment and cigarette taxes. Add an event study, summary statistics, and regression tables to clearly present findings.
 - Data Sections:
-    - Section 1: Do files to create event studies and summary statistics, starting with 10-event-study.do
-    - Section 2: Do files to run regressions for different subsets of adults, starting with 20-reg_men_55_64.do
-    - Section 3: Do files to create regression tables for each respective subset of adults in section 2, starting with 30-table_men_55_64.do
+    - Section 1: Do files to create exproloratory event studies and summary statistics, starting with 10-event-study.do
+    - Section 2: Do files to run core regression models for various demographic subgroups, starting with 20-reg_men_55_64.do
+    - Section 3: Do files to generate publication-ready regression tables for each respective subset of adults in section 2, starting with 30-table_men_55_64.do
 
 
 # file naming mechanism 
