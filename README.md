@@ -1,7 +1,7 @@
 # The Effect of Medicaid Expansion on Ischaemic Heart Disease Mortality (1999 - 2019)
 
 ## 1. Project Overview
-This repository documents an econometric analysis investigating the relationship between Medicaid Expansion and the mortatility rate from heart disease among US states. The study pulls data from five primary sources to create a state-year panel from 1999 to 2019 for difference-in-difference testing. The full paper can be found as [Full Paper](.Full_Paper.pdf).
+This repository documents an econometric analysis investigating the relationship between Medicaid Expansion and the mortatility rate from heart disease among US states. The study pulls data from five primary sources to create a state-year panel from 1999 to 2019 for difference-in-difference testing. The full 23 page paper can be found as [Full Paper](./Full_Paper.pdf).
 
 ### A. Key Insights
 - Methodology: The regression was run with state and time fixed effects, along with controls for unemployment, poverty, and cigarette taxes
