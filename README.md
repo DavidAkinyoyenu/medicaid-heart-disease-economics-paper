@@ -43,30 +43,12 @@ To maintain a structured research trail, each file starts with a two-digit numbe
 ### B. Data Preparation
 The build file is the first folder of our analysis and details how to gather data from our five primary sources to build a state-year panel dataset from 1999 to 2019 for all 50 US states. 
 - Tools: Python, DuckDB, SQL
-- Process: Pull data at the state level from [CDC Wonder](https://wonder.cdc.gov/mcd.html) for crude mortatility rate, [Kaiser Family Foundation](https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) for Expansion year, [Bureau of Labor Statistics](https://www.bls.gov/lau/rdscnp16.htm) for unemployment rate, [US census](https://www.census.gov/data/datasets/2024/demo/saipe/2024-state-and-county.html) for poverty rate, and the [CDC](https://healthdata.gov/CDC/The-Tax-Burden-on-Tobacco-1970-2019/etts-u9ii/about_data) for cigarette taxes. 
+- Process: Pull data at the state level from [CDC Wonder](https://wonder.cdc.gov/mcd.html) for crude mortatility rate, [Kaiser Family Foundation](https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) for Expansion year, [Bureau of Labor Statistics](https://www.bls.gov/lau/rdscnp16.htm) for unemployment rate, [US census](https://www.census.gov/data/datasets/2024/demo/saipe/2024-state-and-county.html) for poverty rate, and the [CDC](https://healthdata.gov/CDC/The-Tax-Burden-on-Tobacco-1970-2019/etts-u9ii/about_data) for cigarette taxes.
+- Data Sections:
+    - Section 0: Files 00-cdc-wonder.py to 010-cdc-wonder-adults-45-64-all-cause.py are data extraction scripts
+    - Section 1: Files 10-merges_US_MEN_55_64 to 17-merges_US_ADULTS_45_64_ALL_CAUSE are merge files that pull from extracted data
+    - Sub folders: Raw files are in [raw](./build/raw), files in the process of being modified are in [intermediate](./build/intermediate), and final analysis-ready panel sets are in [output](./build/output)
 
-### D. File Tree Diagram
-```Plaintext
-/Project_Root
-├── README.md
-├── Paper.pdf
-│  
-├── /Build
-│   ├── 01-data_scrape.py
-│   ├── ...    
-│   └── 10-merge_adults.py
-│
-├── /Analysis
-│   ├── 01-data_scrape.py
-│   ├── ...    
-│   └── 10-merge_adults.py
-│  
-└── /Output
-    ├── 10-event_study.do
-    ├── ...    
-    └── 20-regression_main.do
-
-```
 
 
 
