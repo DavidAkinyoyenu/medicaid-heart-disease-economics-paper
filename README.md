@@ -24,24 +24,26 @@ To maintain a structured research trail, each file starts with a two-digit numbe
 ├── Paper.pdf
 │  
 ├── /Build
-│   ├── 01-data_scrape.py
+│   ├── 00-cdc-wonder.py
 │   ├── ...    
 │   └── 10-merge_adults.py
 │
 ├── /Analysis
-│   ├── 01-data_scrape.py
-│   ├── ...    
-│   └── 10-merge_adults.py
+│   ├── 10-event-study.do
+│   ├── ...
+│   ├── 20-reg_men_55_64.do
+│   ├── ... 
+│   └── 30-table_men_55_64.do
 │  
 └── /Output
-    ├── 10-event_study.do
-    ├── ...    
-    └── 20-regression_main.do
+    ├── event_study_adults_45_64.png
+    ├── ...
+    └── table_11_summary_adults_45_64
 
 ```
 
 ### B. Data Preparation - [build ](./build)
-The build file is the first folder of our analysis and details how to gather data from our five primary sources to build a state-year panel dataset from 1999 to 2019 for all 50 US states. 
+The build folder is the first folder of our analysis and details how to gather data from our five primary sources to build a state-year panel dataset from 1999 to 2019 for all 50 US states. 
 - Tools: Python, DuckDB, SQL
 - Process: Pull data at the state level from [CDC Wonder](https://wonder.cdc.gov/mcd.html) for crude mortatility rate, [Kaiser Family Foundation](https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) for Expansion year, [Bureau of Labor Statistics](https://www.bls.gov/lau/rdscnp16.htm) for unemployment rate, [US census](https://www.census.gov/data/datasets/2024/demo/saipe/2024-state-and-county.html) for poverty rate, and the [CDC](https://healthdata.gov/CDC/The-Tax-Burden-on-Tobacco-1970-2019/etts-u9ii/about_data) for cigarette taxes. Use DuckDB within a Python file to run SQL queries for cleaning and merging the data.
 - Data Sections:
@@ -50,7 +52,7 @@ The build file is the first folder of our analysis and details how to gather dat
     - Sub folders: Raw files are in [raw](./build/raw), files in the process of being modified are in [intermediate](./build/intermediate), and final analysis-ready panel sets are in [output](./build/output)
 
 ### C. Statistical Analysis - [analysis ](./analysis)
-The build file is the first folder of our analysis and details how to gather data from our five primary sources to build a state-year panel dataset from 1999 to 2019 for all 50 US states. 
+The analysis folder is the second folder of our analysis and details how use the completed panel data to run difference-in-difference regressions. 
 - Tools: Stata
 - Process: Use the completed panel data sets from the build file to run difference-in-difference regressions. Use several subgroups of adults and include/remove control variables such as unemployment and cigarette taxes. Add an event study, summary statistics, and regression tables to clearly present findings.
 - Data Sections:
@@ -58,7 +60,7 @@ The build file is the first folder of our analysis and details how to gather dat
     - Section 2: Do files to run core regression models for various demographic subgroups, starting with 20-reg_men_55_64.do
     - Section 3: Do files to generate publication-ready regression tables for each respective subset of adults in section 2, starting with 30-table_men_55_64.do
 
-### D. Statistical Analysis - [output ](./output).
+### D. Results - [output ](./output).
 This final section contains the output of all regression analysis in the form of pictures for event studies and text files for summary statistics and regression tables. 
 
 
